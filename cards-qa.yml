@@ -1,5 +1,5 @@
 build:
-  version: "6.1"
+  version: "6.2"
 
 cards:
   message: "Welcome to ZettaBank accounts related QA APIs "
