@@ -1,5 +1,5 @@
 build:
-  version: "8.2"
+  version: "8.4"
 
 loans:
   message: "Welcome to ZettaBank accounts related QA APIs "
